@@ -1,0 +1,13 @@
+---
+title: "parterShivam"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
++KelseyMcInturff, kmcintur
++RMD file in ds202lab1 titled owner_KelseyMcInturff.Rmd, ID: 56b44db
++No errors
++Add each file often, and commit changes with useful commit messages to log work. 
