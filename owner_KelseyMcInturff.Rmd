@@ -1,0 +1,12 @@
+---
+title: "owner_KelseyMcInturff"
+output: html_document
+---
+
+
+  -Kelsey McIntuff
+  -I tell people that materials science is the reason why everything we use performs the way it does
+  -I have to write myself notes constantly in order to stay organized and on top of my work. If I don't write it down, chances are I won't remember it.
+  -I play on the ISU women's club soccer team.
+  
+  
