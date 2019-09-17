@@ -1,0 +1,8 @@
+---
+title: "Understanding Concepts"
+output: html_document
+---
+
+1. Git is a version control system to track changes made to code. Git hub is a remote repository for the tracking.
+2. Each can be used independently, but they are made to work together. Using only Git limits you to working on your local machine and makes collaboration difficult. Github is developed to work with Git, so it isn't useful on its own. Using the two together allows you to use Gits full potential while benefiting from the collaboration and storage capabilities of Github.
+3. A repository is the Git file that has all the layers of changes made on a project. The command code is git init. 
