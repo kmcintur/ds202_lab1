@@ -1,0 +1,37 @@
+---
+title: "Coding Exercises"
+output: html_document
+---
+
+1. 
+X = c(47,34,33,65,37,NA,43,NA,11,NA,23,NA)
+count = sum(is.na(X))
+print(count)
+
+
+2.
+   age = c(25,30,45,60,12,41)
+   smoker = c('T','F','T','F','F','F')
+   weight = c(120,137,0,168,91,142)
+   weight[3] = 150
+   example_data = data.frame(age,smoker,weight)
+   
+   
+3.
+meanValues <- function(X) {
+mean(x, na.rm = TRUE)
+ }
+
+valuesDivided <- function(X){
+x / sum(x, na.rm = TRUE)
+ }
+
+
+4.
+both_na <- function(x,y) {
+count = sum(is.na(x[var]) & is.na(y[var]))
+ }
+ 
+ 
+  
+  
